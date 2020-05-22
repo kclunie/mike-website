@@ -57,8 +57,8 @@ body{
 .hero {
     position: absolute;
     width: 1200px;
-    margin-left: 0;
-    margin-top: 0;
+    margin-left: 65;
+    margin-top: 110;
 }
 
 h1 {
@@ -87,6 +87,7 @@ h1 {
 .btn-one {
     background-color: darkorange;
     font-family: "Roboto", sans-serif;
+    width: 1000px;
 }
 
 .btn-two {
