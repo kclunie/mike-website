@@ -70,13 +70,16 @@ h1 {
 }
 
 .button {
+    /* width: 600px; */
     margin-top: 30px;
-    margin-left: 440px;
+    margin-left: 400px;
 }
    
 .btn {
+    /* width: 600px; */
+    /* height: 50px; */
     border: 1px solid white;
-    padding: 10px 30px;
+    /* padding: 10px 30px; */
     color: white;
     text-decoration: none;
     margin-right: 5px;
@@ -88,10 +91,12 @@ h1 {
     background-color: darkorange;
     font-family: "Roboto", sans-serif;
     width: 1000px;
+    padding: 10px 55px;
 }
 
 .btn-two {
     font-family: "Roboto", sans-serif;
+    padding: 10px 30px;
 }
 
 .btn-two:hover {
