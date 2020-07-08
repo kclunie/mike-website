@@ -44,14 +44,15 @@ header
 }
 
 .main-nav li a:hover{
-    border: 1px solid white   
+    border: 8px solid white   
 }
 
 .logo img{
-    padding: 10;
+    padding: 0;
     width: 100px;
     height: auto;
     float: left;
+    border: 7px solid #555;
 }
 
 body{
@@ -70,13 +71,20 @@ body{
     margin-top: 110;
 }
 
+.bio {
+    position: absolute;
+    width: 1200px;
+    margin-left: 20;
+    margin-top: 110;
+}
+
 h1 {
     color: white;
     text-transform: uppercase;
     font-size: 70px;
     text-align: center;
     margin-top: 275px;
-    margin-right: 40px;
+    margin-right: 42px;
 }
 
 h4 {
